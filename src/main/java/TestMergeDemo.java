@@ -6,5 +6,6 @@
 public class TestMergeDemo {
     public static void main(String[] args) {
         System.out.println("------master------");
+        System.out.println("------dev-tag2------");
     }
 }
